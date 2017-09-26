@@ -15,14 +15,35 @@ With Scratch, you can program your own interactive stories, games, and animation
 
 Scratch helps young people learn to think creatively, reason systematically, and work collaboratively — essential skills for life in the 21st century.
 
+We are currently using Scratch version 3 or above.
+
 ### Links
 The scratch [homepage](https://scratch.mit.edu/) will give you all the information to get started. You can either download scratch and install it locally or if you have an internet connection you can create scratch projects online and save them to your computer locally.
+
+The offline version of scratch is available on most mobile devices.
+
+The windows download can be found [here](https://scratch.mit.edu/download)
 
 ## Python
 Python is a widely used high-level programming language for general-purpose programming. An interpreted language, Python has a design philosophy that emphasizes code readability (notably using whitespace indentation to delimit code blocks rather than curly brackets or keywords), and a syntax that allows programmers to express concepts in fewer lines of code than might be used in other languages.
 
-Python interpreters are available for many operating systems, allowing Python code to run on a wide variety of systems. 
+Python interpreters are available for many operating systems, allowing Python code to run on a wide variety of systems. You can download it from the links below or if you have an internet connection then you can use Trinket.io to run python online.  Both are free and do not require any account sign up.
+
+We are currently using Python version 3 or above.
+
+### Integrated Development Environments (IDEs)
+An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger. Most modern IDEs have intelligent code completion.
+
+Moving from Scratch to Python is, visually, a bit of a jump.  If you are using trinket then this may not be much of an issue but if you choose to download the Python interpreter onto your local machine then you may want to consider installing a Python IDE.
+
+There are many options but for starting out I would choose either:
+* [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/#section=windows)
+* [PyScripter](https://sourceforge.net/projects/pyscripter/)
+
+Both are free and do not require you to create an account.  **They must be downloaded and installed after you have installed the Python intepreter.**
 
 ### Links
-[Intro to python and trinket on the code club projects site](https://codeclubprojects.org/en-GB/resources/python-intro/)
+There is an introduction to python and trinket on the [code club projects site](https://codeclubprojects.org/en-GB/resources/python-intro/)
+
+You can download python from the python [website](https://www.python.org/)
 
