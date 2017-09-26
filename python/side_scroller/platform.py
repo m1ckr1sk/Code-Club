@@ -1,4 +1,4 @@
-"""This module does blah blah."""
+"""This module is the platform logic the user can jump onto."""
 import pygame
 import constants
 

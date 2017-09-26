@@ -1,26 +1,25 @@
-"""This module does blah blah."""
+"""
+This module is the concrete implementation
+of the abstract level object.
+"""
 from platform import Platform
 from level import Level
 
 
 # Create platforms for the level
-class Level02(Level):
-    """ Definition for level 2. """
+class ConcreteLevel(Level):
+    """ Definition for level 1. """
 
-    def __init__(self, player):
+    def __init__(self, player, platforms, level_limit):
         """ Create level 1. """
 
         # Call the parent constructor
         Level.__init__(self, player)
 
-        self.level_limit = -1000
+        self.level_limit = level_limit
 
-        # Array with type of platform, and x, y location of the platform.
-        level = [[210, 30, 450, 570],
-                 [210, 30, 850, 420],
-                 [210, 30, 1000, 520],
-                 [210, 30, 1120, 280],
-                ]
+        # Array with width, height, x, and y of platform
+        level = platforms
 
         # Go through the array above and add platforms
         for platform in level:

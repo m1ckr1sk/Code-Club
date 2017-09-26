@@ -1,4 +1,4 @@
-"""This module does blah blah."""
+"""This module is the abstract level class."""
 import pygame
 import constants
 

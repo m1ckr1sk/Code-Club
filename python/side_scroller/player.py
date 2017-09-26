@@ -1,6 +1,7 @@
-"""This module does blah blah."""
+"""This module holds teh information on the player sprite."""
 import pygame
 import constants
+
 
 class Player(pygame.sprite.Sprite):
     """
@@ -40,20 +41,15 @@ class Player(pygame.sprite.Sprite):
         self.rect.x += self.change_x
 
         # See if we hit anything
-        block_hit_list = pygame.sprite.spritecollide(self, self.level.platform_list, False)
-        for block in block_hit_list:
-            # If we are moving right,
-            # set our right side to the left side of the item we hit
-            if self.change_x > 0:
-                self.rect.right = block.rect.left
-            elif self.change_x < 0:
-                # Otherwise if we are moving left, do the opposite.
-                self.rect.left = block.rect.right
+        self.perform_left_right_collision_detect()
 
         # Move up/down
         self.rect.y += self.change_y
 
         # Check and see if we hit anything
+        self.perform_up_down_collision_detect()
+
+    def perform_up_down_collision_detect(self):
         block_hit_list = pygame.sprite.spritecollide(self, self.level.platform_list, False)
         for block in block_hit_list:
 
@@ -65,6 +61,18 @@ class Player(pygame.sprite.Sprite):
 
             # Stop our vertical movement
             self.change_y = 0
+
+    def perform_left_right_collision_detect(self):
+        # See if we hit anything
+        block_hit_list = pygame.sprite.spritecollide(self, self.level.platform_list, False)
+        for block in block_hit_list:
+            # If we are moving right,
+            # set our right side to the left side of the item we hit
+            if self.change_x > 0:
+                self.rect.right = block.rect.left
+            elif self.change_x < 0:
+                # Otherwise if we are moving left, do the opposite.
+                self.rect.left = block.rect.right
 
     def calc_grav(self):
         """ Calculate effect of gravity. """

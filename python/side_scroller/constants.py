@@ -1,4 +1,8 @@
-"""This module does blah blah."""
+"""
+This module contains constants for the game.
+
+Todo:  Move this to configuraiton file
+"""
 
 # Colors
 BLACK = (0, 0, 0)
