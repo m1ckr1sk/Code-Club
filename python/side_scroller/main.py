@@ -125,7 +125,7 @@ def load_game_levels(player):
     configuration file"""
     level_limit = -1000
     level_list = []
-    with open("data.yaml", 'r') as stream:
+    with open("game_config/data.yaml", 'r') as stream:
         try:
             game_configuration = yaml.load(stream)
             for level in game_configuration['Game Configuration']:
