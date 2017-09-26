@@ -31,6 +31,19 @@ Python interpreters are available for many operating systems, allowing Python co
 
 We are currently using Python version 3 or above.
 
+### Saving your work with Trinket.IO when working at school
+Its good practice to save your work regularly.  However, due to restrictions on download at school you will need follow these steps to save your work:
+1.  Create a word document on your computer in your documents area.  Name it Python_Projects.doc.
+2.  Once you are ready to save, use the 'link' option on trinket to generate a web address.
+    ![Trinket 1](images/trinket1.png)
+3.  Copy this web address and paste it into your new word document.
+    ![Trinket 2](images/trinket2.png)
+4.  Save the document.
+
+When you want to load your work to continue:
+1.  Open your word document, Python_Projects.doc.
+2.  Copy the web address you saved from your last session and paste it into your web browser address bar.
+
 ### Integrated Development Environments (IDEs)
 An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger. Most modern IDEs have intelligent code completion.
 
