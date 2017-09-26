@@ -4,7 +4,7 @@ This is a small repo with some examples, links and resources used for code club.
 
 The code club currently runs two modules
 * scratch for beginners
-* Python for intermediery/advanced
+* Python for intermediate/advanced
 
 All beginners start at the code [club project site](https://codeclubprojects.org/en-GB/).  All the information required to get started is located here with links to small starter projects and all the teaching material.
 
@@ -53,7 +53,7 @@ There are many options but for starting out I would choose either:
 * [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/#section=windows)
 * [PyScripter](https://sourceforge.net/projects/pyscripter/)
 
-Both are free and do not require you to create an account.  **They must be downloaded and installed after you have installed the Python intepreter.**
+Both are free and do not require you to create an account.  **They must be downloaded and installed after you have installed the Python interpreter.**
 
 ### Links
 There is an introduction to python and trinket on the [code club projects site](https://codeclubprojects.org/en-GB/resources/python-intro/)
