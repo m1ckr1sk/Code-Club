@@ -1,5 +1,5 @@
 #!/bin/python3
-
+import time
 
 def show_instructions():
     # print a main menu and the commands
@@ -55,6 +55,7 @@ rooms = {
 
 # start the player in the Hall
 currentRoom = 'Hall'
+monster_clock_set = False
 
 show_instructions()
 
@@ -74,6 +75,13 @@ while True:
     move = move.lower().split()
     command = move[0]
 
+    if monster_clock_set:
+        # check the clock
+        time_now = time.time()
+        time_elapsed = time_now - monster_clock
+        if time_elapsed > 5:
+            print('The monster has got you... GAME OVER!')
+            break
 
     # if they type 'go' first
     if command == 'go':
@@ -102,10 +110,19 @@ while True:
             # tell them they can't get it
             print('Can\'t get ' + item_to_get + '!')
 
-    # player loses if they enter a room with a monster
+    # player loses if they enter a room with a monster and do not move in 5 seconds
     if 'item' in rooms[currentRoom] and 'monster' in rooms[currentRoom]['item']:
-        print('A monster has got you... GAME OVER!')
-        break
+
+        if not monster_clock_set:
+            print('A monster! You have 5 seconds to escape')
+            monster_clock_set = True
+            monster_clock = time.time()
+        else:
+            time_elapsed = time_now - monster_clock
+            print('A monster! You have {:5.2f} seconds to escape'.format(time_elapsed))
+
+    else:
+        monster_clock_set = False
 
     # player wins if they get to the garden with a key and a shield
     if currentRoom == 'Garden' and 'key' in inventory and 'potion' in inventory:
