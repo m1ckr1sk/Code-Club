@@ -1,6 +1,12 @@
 # Introduction
 Area for python projects from the code club.
 
+## About me
+Simple project to show some simple strucutres and script execution.
+
+## Side scroller
+More advanced project using pygame for simple jump, collision detection, geometry and trig.
+
 ## RPG
 In this project, you’ll design and code your own RPG maze game. 
 
