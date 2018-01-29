@@ -7,6 +7,8 @@ Simple project to show some simple strucutres and script execution.
 ## Side scroller
 More advanced project using pygame for simple jump, collision detection, geometry and trig.
 
+Haven't tried this in trinket.
+
 ## RPG
 In this project, you’ll design and code your own RPG maze game. 
 
