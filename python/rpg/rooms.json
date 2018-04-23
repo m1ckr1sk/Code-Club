@@ -1,0 +1,21 @@
+{
+
+    "Hall": {"east": "Dining Room",
+             "south": "Kitchen",
+             "item": ["key"]
+             },
+
+    "Kitchen": {"north": "Hall",
+                "south": "Garden",
+                "monster": {
+                    "name": "ghoul",
+                    "iskilledby": "potion"}
+                },
+
+    "Dining Room": {"west": "Hall",
+                    "item": ["potion", "brussel sprout"]
+                    },
+
+    "Garden": {"north": "Kitchen"}
+
+}
