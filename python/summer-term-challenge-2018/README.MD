@@ -64,7 +64,7 @@ The most important thing is that you will win the respect and admiration of your
 
 After the final presentation there will be a secret ballot to find the best project.  The winner will win a small prize.
 
-The jusging criteria will be based on :
+The judging criteria will be based on :
 
 *  Creativity
 *  Functionality
