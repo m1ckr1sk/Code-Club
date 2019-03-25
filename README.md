@@ -22,6 +22,9 @@ A scratch [quiz](https://scratch.mit.edu/projects/17920411/) is a good way to te
 ### How do I do jumping
 Jumping is covererd [here](https://en.scratch-wiki.info/wiki/Jumping)
 
+### How do I create scrolling game?
+Scrolling is covered [here](https://en.scratch-wiki.info/wiki/Scrolling_Platformer_Tutorial)
+
 ### Links
 The scratch [homepage](https://scratch.mit.edu/) will give you all the information to get started. You can either download scratch and install it locally or if you have an internet connection you can create scratch projects online and save them to your computer locally.
 
