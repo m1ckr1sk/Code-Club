@@ -19,6 +19,9 @@ We are currently using Scratch version 3 or above.
 
 A scratch [quiz](https://scratch.mit.edu/projects/17920411/) is a good way to test your knowledge.
 
+### How do I do jumping
+Jumping is covererd [here](https://en.scratch-wiki.info/wiki/Jumping)
+
 ### Links
 The scratch [homepage](https://scratch.mit.edu/) will give you all the information to get started. You can either download scratch and install it locally or if you have an internet connection you can create scratch projects online and save them to your computer locally.
 
