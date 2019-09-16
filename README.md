@@ -78,7 +78,7 @@ Both are free and do not require you to create an account.  **They must be downl
 
 ### Python Links
 
-[Code combat](https://www.codecomabt.com) uses a simple game to teach syntaxt.  The first few levels are free.
+[Code combat](https://www.codecomabt.com) uses a simple game to teach syntax.  The first few levels are free.
 
 There is an introduction to python and trinket on the [code club projects site](https://codeclubprojects.org/en-GB/resources/python-intro/)
 
