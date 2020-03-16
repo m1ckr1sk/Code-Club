@@ -71,14 +71,15 @@ Moving from Scratch to Python is, visually, a bit of a jump.  If you are using t
 
 There are many options but for starting out I would choose either:
 
-* [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/#section=windows)
-* [PyScripter](https://sourceforge.net/projects/pyscripter/)
+* [Visual Studio Code](https://code.visualstudio.com/) - my personal favourite and the one I use professionally. It requires the python plugin to get going.   It can also be used for lots of other languages too.
+* [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/#section=windows) - probably the simplest to use
+* [PyScripter](https://sourceforge.net/projects/pyscripter/) - Another great beginner IDE
 
-Both are free and do not require you to create an account.  **They must be downloaded and installed after you have installed the Python interpreter.**
+All the above IDEs are free and do not require you to create an account.  **They must be downloaded and installed after you have installed the Python interpreter.**
 
 ### Python Links
 
-[Code combat](https://www.codecomabt.com) uses a simple game to teach syntax.  The first few levels are free.
+[Code combat](https://www.codecomabt.com) uses a simple game to teach syntax.  The first few levels are free without account sign up.  A free account can be created to access the majority of the levels and premium option is available for more further features and levels.  I would say this is the childrens favourite resource for learning coding.
 
 There is an introduction to python and trinket on the [code club projects site](https://codeclubprojects.org/en-GB/resources/python-intro/)
 
