@@ -23,15 +23,21 @@ We are currently using Scratch version 3 or above.
 
 A scratch [quiz](https://scratch.mit.edu/projects/17920411/) is a good way to test your knowledge.
 
-The first lesson in code club is to build the boat game on the code club website all together. As the children complete it then ask them to add their own ideas and cusomisation until all the children have completed their game and then we all walk round and play each others games.
+The first lesson in code club is to build the boat game on the code club website all together. As the children complete it then ask them to add their own ideas and customisation until all the children have completed their game and then we all walk round and play each others games.
 
-### How do I do jumping
+### Common Questions
+
+#### How do I do jumping?
 
 Jumping is covererd [here](https://en.scratch-wiki.info/wiki/Jumping)
 
-### How do I create scrolling game
+#### How do I create scrolling game?
 
 Scrolling is covered [here](https://en.scratch-wiki.info/wiki/Scrolling_Platformer_Tutorial)
+
+#### How do I create a Minecraft/Call of Duty/Fortnite type game?
+
+Lesson 1 of code club, I can guarantee this gets asked.  I've found the best way to approach this is to manage expectations firstly then break the problem down so they can think about a small part of building something that interests them.  For example. can they get a figure to do the fortnite dances, can they get a block to dissapear when hit, can they create a map for a sprite to walkaround.  Once they start this task they soon realise that the code club projects are building blocks to achieving some of their own projects.  They soon learn to adapt the code club projects to build their own projects.  One of the best projects I've seen is a re creation of donkey kong which a pupil wrote in Scratch.
 
 ### Scratch Links
 
