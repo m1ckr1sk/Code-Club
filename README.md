@@ -23,6 +23,8 @@ We are currently using Scratch version 3 or above.
 
 A scratch [quiz](https://scratch.mit.edu/projects/17920411/) is a good way to test your knowledge.
 
+The first lesson in code club is to build the boat game on the code club website all together. As the children complete it then ask them to add their own ideas and cusomisation until all the children have completed their game and then we all walk round and play each others games.
+
 ### How do I do jumping
 
 Jumping is covererd [here](https://en.scratch-wiki.info/wiki/Jumping)
