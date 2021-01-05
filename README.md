@@ -31,7 +31,7 @@ The first lesson in code club is to build the boat game on the code club website
 
 Jumping is covererd [here](https://en.scratch-wiki.info/wiki/Jumping)
 
-#### How do I create scrolling game?
+#### How do I create a scrolling game?
 
 Scrolling is covered [here](https://en.scratch-wiki.info/wiki/Scrolling_Platformer_Tutorial)
 
