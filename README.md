@@ -101,6 +101,10 @@ You can download python from the python [website](https://www.python.org/)
 
 Alongside programming resources there are a number of other resources available that offer an introduction to STEM activities.  Some will require a small investment but these have all been "battle" tested with kids from school or with my own children.
 
+### STEM 
+
+The main [STEM](https://www.stem.org.uk/home-learning) home learning resources are fantastic and really help with setting out hands on activities.  We've mainly use the primary school activities which my son has enjoyed immensely.
+
 ### Raspberry Pi
 
 For a small investment the [rapsberry pi](https://www.raspberrypi.org/) can provide a wealth of learning. The raspberry PI is a small board computer that can be hooked up to a monitor, keyboard and mouse to provide pretty much everything you need to complete all the activities I've listed above.  Once you've completed that there is an almost endless set of projects that can be completed online with the raspberry pi.  Once the Raspbian operating system is installed (most come with it pre installed) the raspberry pi has both scratch and python installed by default.  The Pi can also be extended in numerous ways and with the Pins it can be used to connect to electronic circuits.  I would say that kids from around 10+ find the Pi fairly simple to get around and operate.
@@ -116,7 +120,4 @@ Much like the raspberry Pi, the [BBC microbit](https://microbit.org/) is a small
 ### Turing Tumble
 
 The [turing tumble](https://www.turingtumble.com/) is fantastic for an introduction into logic problems.  It is a simple concept to introduce kids to logic gates but is extremely well done and the kids are really well made.  They are quite pricey, (I managed to pick one up for around £50) but its probably my favourite piece of kit because you don't need batteries, you don't need to plug it in, you don't need to support them using it other than a quick intro and the progresssion in difficulty is very gradual.  The marbles are quite fiddly so I'd recommend getting a magnet with it.  A colleague introduced this to me and told me it was for children but I have a suspicion that we both play it more than the kids.  
-
-
-
 
