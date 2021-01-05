@@ -33,11 +33,11 @@ Scrolling is covered [here](https://en.scratch-wiki.info/wiki/Scrolling_Platform
 
 ### Scratch Links
 
-The scratch [homepage](https://scratch.mit.edu/) will give you all the information to get started. You can either download scratch and install it locally or if you have an internet connection you can create scratch projects online and save them to your computer locally.
+The scratch [homepage](https://scratch.mit.edu/) will give you all the information to get started. You can either download scratch and install it locally or if you have an internet connection you can create scratch projects online and save them to your computer locally.  Scratch 3 is only available online at this point in time.
 
 The offline version of scratch is available on most mobile devices.
 
-The windows download can be found [here](https://scratch.mit.edu/download)
+The windows download for older versions can be found [here](https://scratch.mit.edu/download)
 
 ## Python
 
