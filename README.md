@@ -79,10 +79,14 @@ All the above IDEs are free and do not require you to create an account.  **They
 
 ### Python Links
 
+#### Code Combat
+
 [Code combat](https://www.codecombat.com) uses a simple game to teach syntax and is a superb stepping stone from scratch to Python.  The first few levels are free without account sign up.  A free account can be created to access the majority of the levels and premium option is available for more further features and levels.  I would say this is the childrens favourite resource for learning coding.
 
+#### Trinket Introduction
 There is an introduction to python and trinket on the [code club projects site](https://codeclubprojects.org/en-GB/resources/python-intro/)
 
+#### Python Installation
 You can download python from the python [website](https://www.python.org/)
 
 ## Other Stem Resources
@@ -103,7 +107,7 @@ Much like the raspberry Pi, the [BBC microbit](https://microbit.org/) is a small
 
 ### Turing Tumble
 
-The [turing tumble](https://www.turingtumble.com/) is fantastic for and introduction into logic problems.  It is a simple concept to introduce kids to logic gates but is extremely well done and the kids are really well made.  They are quite pricey, (I managed to pick one up for around £50) but its probably my favourite piece of kit because you don't need batteries, you don't need to plug it in, you don't need to support them using it other than a quick intro and the progresssion in difficulty is very gradual.  The marbles are quite fiddly so I'd recommend getting a magnet with it.  A colleague introduced this to me and told me it was for children but I have a suspicion that we both play it more than the kids.  
+The [turing tumble](https://www.turingtumble.com/) is fantastic for an introduction into logic problems.  It is a simple concept to introduce kids to logic gates but is extremely well done and the kids are really well made.  They are quite pricey, (I managed to pick one up for around £50) but its probably my favourite piece of kit because you don't need batteries, you don't need to plug it in, you don't need to support them using it other than a quick intro and the progresssion in difficulty is very gradual.  The marbles are quite fiddly so I'd recommend getting a magnet with it.  A colleague introduced this to me and told me it was for children but I have a suspicion that we both play it more than the kids.  
 
 
 
