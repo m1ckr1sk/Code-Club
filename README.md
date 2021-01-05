@@ -79,8 +79,32 @@ All the above IDEs are free and do not require you to create an account.  **They
 
 ### Python Links
 
-[Code combat](https://www.codecomabt.com) uses a simple game to teach syntax.  The first few levels are free without account sign up.  A free account can be created to access the majority of the levels and premium option is available for more further features and levels.  I would say this is the childrens favourite resource for learning coding.
+[Code combat](https://www.codecombat.com) uses a simple game to teach syntax and is a superb stepping stone from scratch to Python.  The first few levels are free without account sign up.  A free account can be created to access the majority of the levels and premium option is available for more further features and levels.  I would say this is the childrens favourite resource for learning coding.
 
 There is an introduction to python and trinket on the [code club projects site](https://codeclubprojects.org/en-GB/resources/python-intro/)
 
 You can download python from the python [website](https://www.python.org/)
+
+## Other Stem Resources
+
+Alongside programming resources there are a number of other resources available that offer an introduction to STEM activities.  Some will require a small investment but these have all been "battle" tested with kids from school or with my own children.
+
+### Raspberry Pi
+
+For a small investment the [rapsberry pi](https://www.raspberrypi.org/) can provide a wealth of learning. The raspberry PI is a small board computer that can be hooked up to a monitor, keyboard and mouse to provide pretty much everything you need to complete all the activities I've listed above.  Once you've completed that there is an almost endless set of projects that can be completed online with the raspberry pi.  Once the Raspbian operating system is installed (most come with it pre installed) the raspberry pi has both scratch and python installed by default.  The Pi can also be extended in numerous ways and with the Pins it can be used to connect to electronic circuits.  I would say that kids from around 10+ find the Pi fairly simple to get around and operate.
+
+### BBC Micro Bit
+
+Much like the raspberry Pi, the [BBC microbit](https://microbit.org/) is a small board computer but is slightly more accessible.  You can programme the boards LEDs, sensors and buttons using scratch to create all sorts of interesting projects.  It has some Pins to enable it to be connected to electronic circuits and other accessories. Its not as versatile as the raspberry pi but the kids in the class enjoyed completing the projects and freestyling their own projects.  A random insult generator that one of the children created was a big hit.
+
+### Snap Circuits
+
+[Snap circuits](https://www.elenco.com/brand/snap-circuits/) are great kits that introduce the children to electronic circuits.  The kits range in price and have lots of different accessories from simple buzzers, lights and sensors to integrating into raspberry pi's.  The kits are well made and come with lots of different projects.  My youngest (8) has completed most of the 100 piece kit projects and gets great pleasure in showing us how it works.
+
+### Turing Tumble
+
+The [turing tumble](https://www.turingtumble.com/) is fantastic for and introduction into logic problems.  It is a simple concept to introduce kids to logic gates but is extremely well done and the kids are really well made.  They are quite pricey, (I managed to pick one up for around £50) but its probably my favourite piece of kit because you don't need batteries, you don't need to plug it in, you don't need to support them using it other than a quick intro and the progresssion in difficulty is very gradual.  The marbles are quite fiddly so I'd recommend getting a magnet with it.  A colleague introduced this to me and told me it was for children but I have a suspicion that we both play it more than the kids.  
+
+
+
+
